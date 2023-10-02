@@ -84,7 +84,6 @@ const instance = basicLightbox.create(
         },
     }
 );
-instance.show();
 
 // Ці дві функції onImgClick і onEscKeyPress призначені для керування модальним вікном, створеним за допомогою бібліотеки BasicLightbox, 
 // на основі дій користувача.
